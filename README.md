@@ -37,5 +37,5 @@ Certification : </br>
  ---
 
 ## Java The Complete Reference Twelfth Edition : _commencé le 14/06/2022_
-- [ ] Chapitre 3 : DataTypes, Variables, and Arrays .  
+- [X] Chapitre 3 : DataTypes, Variables, and Arrays .  _Terminé le 17/06/2022_
 
