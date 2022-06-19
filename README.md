@@ -38,5 +38,7 @@ Certification : </br>
 
 ## Java The Complete Reference Twelfth Edition : _commencé le 14/06/2022_
 - [X] Chapitre 3 : DataTypes, Variables, and Arrays.  _Terminé le 17/06/2022_
-- [ ] Chapitre 4 : Operators.
+- [X] Chapitre 4 : Operators. _Terminé le 18/06/2022_
+- [ ] Chapitre 5 : Control Statements.
+- [ ] Chapitre 6 : Introducing Classes.
 
