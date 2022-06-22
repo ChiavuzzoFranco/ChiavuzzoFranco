@@ -41,4 +41,5 @@ Certification : </br>
 - [X] Chapitre 4 : Operators. _Terminé le 18/06/2022_
 - [X] Chapitre 5 : Control Statements. _Termine le 19/06/2022_
 - [ ] Chapitre 6 : Introducing Classes.
+     - [X]  Heap - Stack 
 
