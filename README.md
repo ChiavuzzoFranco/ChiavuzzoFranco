@@ -42,5 +42,5 @@ Certification : </br>
 - [X] Chapitre 5 : Control Statements. _Terminé le 19/06/2022_
 - [X] Chapitre 6 : Introducing Classes. _Terminé le 23/06/2022_
      - [X]  Heap - Stack 
-- [X] Chapitre 7 : A Close Look at Methods and Classes.
+- [ ] Chapitre 7 : A Close Look at Methods and Classes.
      
